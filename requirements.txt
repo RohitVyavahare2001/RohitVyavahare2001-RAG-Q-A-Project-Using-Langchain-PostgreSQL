@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain_community
+langchain_huggingface
+qdrant-client
+python-dotenv
+sqlalchemy
+pypdf
+sentence-transformers
+streamlit
+requests
+psycopg2-binary
